@@ -1,4 +1,4 @@
-a16fe63a1b57e0faa7cf98b7c35913fe *DESCRIPTION
+3bd8cda3e7453c99fea2836520f0d15b *DESCRIPTION
 f892ce30df98da5c4c1b60cb47e454a4 *NAMESPACE
 8afc5211d12af53787d648d496cba390 *R/APR.Feature.R
 965ee972cf61bdf8a637dc56ed26aa00 *R/Bayes.Feature.R
@@ -15,7 +15,7 @@ e3e571a528a4b24ffd259523c13f33ee *R/Sparse.Feature.R
 149030b7cbc038351394a0d5c26cbd4f *R/Trint.Dist.Feature.R
 9298c61e18204e80ab880372bcbe0499 *R/WAM.Feature.R
 aa7ef31e83de883ee7eacdcad6b9721a *R/WMM.Feature.R
-98f0815860c6c340c2bad08789af4f82 *data/droso.rda
+b9d4bfadbda0f24704756f89ee6f0488 *data/droso.rda
 56b6566300bff1d4724e0628b74a2e7f *man/APR.Feature.Rd
 ad2afc68ad1b7618e5486cd048b710a5 *man/Bayes.Feature.Rd
 febba985f0fea6abed42b8b48ef14009 *man/Density.Feature.Rd
